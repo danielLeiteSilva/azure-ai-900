@@ -1,8 +1,18 @@
-"# azure-ai-900 exercises DIO" 
+# azure-ai-900 exercises DIO
 
-# API: http://b04cf4e4-2281-4ca4-b347-a76c8fbdfff5.eastus2.azurecontainer.io/score
+Exercício 1
 
-# BODY
+#### Endereço de API
+
+```url
+ http://b04cf4e4-2281-4ca4-b347-a76c8fbdfff5.eastus2.azurecontainer.io
+```
+
+```http
+  GET /score
+```
+
+## BODY
 ```json
 
  {
@@ -28,7 +38,7 @@
  }
 
 ```
-# RESPONSE
+## RESPONSE
 
 ```json
 
