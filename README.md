@@ -1,6 +1,12 @@
 # azure-ai-900 exercises DIO
 
-Exercício 1
+Machine learning course
+
+#### Exercise 1
+
+```url
+ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+```
 
 #### Endereço de API
 
